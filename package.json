@@ -6,6 +6,7 @@
     "start": "node ./bin/www"
   },
   "dependencies": {
+    "buttle": "^0.2.0",
     "cookie-parser": "~1.4.3",
     "countup": "^1.8.2",
     "debug": "~2.6.9",
@@ -14,6 +15,7 @@
     "http-errors": "~1.6.2",
     "moment": "^2.22.2",
     "morgan": "~1.9.0",
+    "ponse": "^3.0.1",
     "pug": "2.0.0-beta11",
     "uglify": "^0.1.5"
   }
